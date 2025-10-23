@@ -8,7 +8,7 @@ _#freeCodeCamp JavaScript Algorithms and Data Structures Projects_
 
 ## Live Demo
 
-[Calorie Counter Application](https://eddking-qs.github.io/JavaScript-Mini_Project-Calorie_Counter/)
+[Calorie Counter Application](https://quintincodes.github.io/JavaScript-Mini_Project-Calorie_Counter/)
 
 ## Features
 
